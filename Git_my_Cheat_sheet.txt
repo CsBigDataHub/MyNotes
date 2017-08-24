@@ -1,0 +1,150 @@
+# git config list
+git config --list
+
+#set-up global editor for git
+git config --global core.editor "subl"
+#for windows follow the link below
+http://stackoverflow.com/questions/10564/how-can-i-set-up-an-editor-to-work-with-git-on-windows
+
+# diff with changed works highlighted
+git diff --color-words
+
+#stay on the current braanch for check out usinf '--'
+git checkout -- $filename
+
+#to uncommit the changes from repo- to undo commit (very last commit)
+git commit --amend -m "rearrangrd sunglasses"
+
+#log
+git log --oneline
+git log --oneline --graph --decorate --all
+git log -p $local_branch..$origin_branch_name # 'P' is for patch
+
+
+##remove file from the staging index
+git rm --cached tempfile2.txt
+
+#check the branch i'm in
+git branch
+git branch -r # shows remote branchs
+git branch -a # shows all branchs including remote branchs
+git branch $new_branch_name
+git branch $new_branch_name HEAD # creates new brach from master
+git branch $new_branch_name $treeish #craetes branch from treeish
+git branch $new_branch_name $old_branch #this is similar to HEAD but it creates from the branch specified
+cat .git/HEAD # both are the same
+ls -la .git/refs/heads/ #this is to check number of branchs in the repo
+
+# switch to new or old branch
+git checkout $branch_name 
+git checkout -b $branch_name # creates new branch and swiches to it in one step
+git checkout -b $branch_name $origin_branch_name
+
+# to check the contents/ changes/Difference in branchs
+git branch --merged
+
+#renaming branchs
+git branch -m $old_branch $new_branch_name
+git branch --move $old_branch $new_branch_name
+
+#delete branchs
+git branch -d $branch_name
+git branch -delete $branch_name 
+
+#change command line to show branchs
+__git_ps1
+export PS1='\W$(__git_ps1 "(%s)") > '
+export PS1='${debian_chroot:+($debian_chroot)}\[\033[01;31m\]\u@\h\[\033[01;34m\] \w$(__git_ps1 "(%s)") > \[\033[00m\]'
+
+#Merging the branchs
+git merge $branch_name #this is a fast forward merge the head in the branch is brought to master branch
+
+git merge --no-ff $branch_name # this will merge the branch to master and create a new commit
+
+git merge --ff-only $branch_name # this is only fast forward merge
+
+#to get list of git merge tools
+git merge tools
+#to set a merge tool
+git config --global diff.tool $merge_tool_name
+
+git config --global merge.tool $merge_tool_name
+
+# To clone the project
+
+#to stash the changes 
+git stash save "$message" #this will stash all the files with changes
+
+git stash list # to list the files in the stash
+git stash show $stash_name # this will show diff of the file
+git stash show -p $stash_name # this will show extensive diff of the file
+
+# this is pull stash to a branch
+git stash pop $stash_name # will remove stash when pull
+git stash apply $stash_name # will keep a copy in the stash
+git stash drop $stash_name # will drop the stash
+git stash clear # will clear the whole stash
+
+###git remote
+git remote # this shows us the remotes git is aware of similar to branchs i.e. git branch
+git remote -v
+
+git remote add <alias> <url> #this will add remote connection with alias
+git remote rm <alias> #removes the remote
+
+#create a new repository on the command line
+
+echo "# explore_california" >> README.md
+git init
+git add README.md
+git commit -m "first commit"
+git remote add origin https://github.com/CsBigDataHub/explore_california.git
+git push -u origin master
+
+#push an existing repository from the command line
+
+git remote add origin https://github.com/CsBigDataHub/explore_california.git
+git push -u origin master
+git push -u <origin_branch_name> <branch_name>
+git push # you can do this if you are in a tracking branch
+
+#Clone the remote repository
+git clone https://github.com/CsBigDataHub/explore_california.git <$folder_name>
+
+#if you did use '-u' while pushing the branch to remote/origin, you can follow to add these branchs to tracking
+git config branch.<$branch_name>.remote $remote_branch_name
+git config branch.<$branch_name>.merge  refs/heads/master
+git branch --set-upstream $branch_name origin/$branch_name #in this case origin is $remote_branch_name
+
+git log --oneline origin/$branch_name
+git diff origin/$branch_name..$local_master
+
+#fetching from remote repository
+git fetch $remote_branch_name
+git fetch #if you just have one remote branch you can just use it
+cat .git/config #to check remote branchs
+#fetch gloden rules
+->Always fetch before you start work
+->Always fetch before you push
+->Always fetch often
+->Always fetch before merge
+
+#pull
+git pull = git fetch + git merge
+
+#to delete remote branch
+git push origin --delete $remote_branch_name
+git push origin :$remote_branch_name # this will delete the branch in remote
+
+git push origin $local_branch:$remote_branch # this will push local_branch to remote
+
+#alias
+git config --global alias.st status #aliasing status as st
+git config --global alias.co checkout
+git config --global alias.ci commit
+git config --global alias.br branch
+git config --global alias.dfs "diff --staged" #since it has space in it we padded with double quotes
+git config --global alias.logg "log -graph --decorate --oneline --abbrev-commit --all"
+
+#set credentials
+google generate ssh keys

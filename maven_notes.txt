@@ -1,0 +1,76 @@
+#To create a Maven Architecture 
+-> mvn archetype:generate
+
+-> mvn archetype:generate -DgroupId=com.lynda -DartifactId=sample -DarchetypeArtifactId=maven-archetype-quickstart -DinteractiveMode=false
+
+#to generate web App
+$ mvn archetype:generate -DgroupId={project-packaging}
+	-DartifactId={project-name}
+	-DarchetypeArtifactId=maven-archetype-webapp
+	-DinteractiveMode=false
+
+//for example
+$ mvn archetype:generate -DgroupId=com.mkyong
+	-DartifactId=CounterWebApp
+	-DarchetypeArtifactId=maven-archetype-webapp
+	-DinteractiveMode=false
+
+#TO have a look at super POM file
+-> mvn help:effective-pom
+
+#To compile the Maven Project
+-> mvn compile
+
+#To run the test cases
+-> mvn test
+
+#To Package the Maven Project in to a jar or war
+-> mvn package
+
+#To show the output of a perticular java class
+java -cp target/MavenTestApp-1.0-SNAPSHOT.jar com.chetan.maven.jenkins.App
+java -cp <jar file with path> <class you need to complie/ usually a main class>
+
+#To clean the target folder which contains classes and jars
+mvn clean
+
+mvn clean compile #to clean and compile
+
+#to build plugins
+ <build>
+ <plugins> 
+ <plugin>
+ <groupId></groupId>
+ <artifactId></artifactId>
+ <version></version>
+ <configuration>
+  <scanIntervalSeconds></scanIntervalSeconds>
+ </configuration>
+ </plugin>
+ </plugins>
+</build>
+
+#to run with Jetty
+-> mvn jetty:run
+
+#maven eclipse plugin
+mvn eclipse:eclipse
+
+# The build life cycle of the mvn is as below
+
+1.process-resources
+2.compile
+3.process-test-resources
+4.test-compile
+5.test
+6.package
+7.install
+8.deploy
+
+##describe plugin, plugin information
+-> mvn help:describe -Dplugin=archetype
+
+##Mandatoy tags to add dependencies
+<groupId>com.chetan</groupId>
+<artifactId>GetNameModule</artifactId>
+<version>1.0</version>

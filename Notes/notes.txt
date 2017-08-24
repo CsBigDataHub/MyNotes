@@ -1,0 +1,36 @@
+
+export JAVA_HOME=`type -p javac|xargs readlink -f|xargs dirname|xargs dirname`
+
+export JAVA_HOME=`type -p javac|xargs readlink -f|xargs dirname|xargs dirname`
+
+echo export JAVA_HOME=$JAVA_HOME/bin >> ~/.bashrc
+
+
+tomcat home = /opt/tomcat/
+
+NGINX home -/etc/nginx
+
+Jenkins Home= etc/default/jenkins
+
+
+Sublime Anaconda = for run (ctrl+b)
+
+systemctl restart tomcat
+systemctl restart jenkins
+
+sudo service tomcat stop
+sudo service jenkins stop
+
+service jenkins stop
+service tomcat stop
+
+
+http://my.jenkins.id/
+
+http://127.0.0.1:8081/
+
+
+http://localhost:8081/
+
+
+

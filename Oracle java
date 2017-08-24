@@ -1,0 +1,19 @@
+sudo add-apt-repository ppa:webupd8team/java
+sudo apt-get update
+sudo apt-get install oracle-java8-installer
+
+Switching between Oracle Java 8 and Java 7
+
+
+Later on, if you want to switch Oracle Java 7, use the following command (make sure "oracle-java7-installer" package is installed):
+
+sudo update-java-alternatives -s java-7-oracle
+
+And, switch back to Oracle Java 8 using:
+
+sudo update-java-alternatives -s java-8-oracle
+
+Setting Java environment variables
+To automatically set up the Java 8 environment variables, you can install the following package:
+
+sudo apt-get install oracle-java8-set-default

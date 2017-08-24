@@ -1,0 +1,54 @@
+Gandola.pig
+McCarter.start-git-bash
+PKief.material-icon-theme
+TeddyDD.fish
+casian.plsql
+cdsama.shell-snippets
+christian-kohler.path-intellisense
+donjayamanne.githistory
+donjayamanne.python
+emmanuelbeziat.vscode-great-icons
+formulahendry.auto-close-tag
+formulahendry.auto-rename-tag
+formulahendry.code-runner
+foxundermoon.shell-format
+guosong.vscode-util
+hyesun.py-paste-indent
+jkjustjoshing.vscode-text-pastry
+josephtbradley.hive-sql
+jprestidge.theme-material-theme
+lunaryorn.fish-ide
+magicstack.MagicPython
+ms-vscode.sublime-keybindings
+ms-vscode.vs-keybindings
+robertohuertasm.vscode-icons
+sensourceinc.vscode-sql-beautify
+shakram02.bash-beautify
+tht13.python
+tushortz.python-extended-snippets
+whtsky.agila-theme
+xyz.plsql-language
+
+#########################setting####################
+// Place your settings in this file to overwrite the default settings
+{
+    "editor.fontSize": 16,
+    "window.zoomLevel": 1,
+    "python.linting.enabled": false,
+    "editor.multiCursorModifier": "ctrlCmd",
+    "workbench.iconTheme": "material-icon-theme",
+    "workbench.colorTheme": "Agila Monokai Extended",
+    "editor.minimap.enabled": false,
+    "editor.quickSuggestions": {
+    "other": true,
+    "comments": true,
+    "strings": true
+  }
+    
+}
+###########################################################
+##TExt pastry to assign number for lines
+##to get list of extensions
+code --list-extensions >> vsstudio_extentions.txt
+
+

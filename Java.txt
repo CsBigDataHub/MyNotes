@@ -1,0 +1,15 @@
+
+java.io.File logFileDir = new java.io.File(context.log_dir_talend+"/"+context.prtnrCd.toLowerCase()+"/"+context.masterLogFileDate+"/"+context.logtime);
+
+java.io.File logFile = new java.io.File(logFileDir,context.prtnrCd+"_"+context.srcCd+"_"+context.logtimestamp+".log");
+
+java.io.PrintStream psLogFile = new java.io.PrintStream(new java.io.FileOutputStream(logFile));
+
+psLogFile.print();
+
+System.setOut(psLogFile);
+System.setErr(psLogFile);
+
+***************************************************************************
+
+java.util.UUID.randomUUID().toString();

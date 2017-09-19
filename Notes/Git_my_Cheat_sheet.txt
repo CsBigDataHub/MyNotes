@@ -85,6 +85,10 @@ git stash apply $stash_name # will keep a copy in the stash
 git stash drop $stash_name # will drop the stash
 git stash clear # will clear the whole stash
 
+##When you have file or a folder that you need to remove from git to versionize use
+git rm -r --cached $folder_or_file_name
+git commit -m "removing the $folder_or_file_name from git"
+
 ###git remote
 git remote # this shows us the remotes git is aware of similar to branchs i.e. git branch
 git remote -v

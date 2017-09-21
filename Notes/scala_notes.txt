@@ -1,0 +1,7 @@
+//##To runh scala as normal shell script use the following header
+#!/bin/sh
+exec scala "$0" "$@"
+!#
+
+///////////////***********************//////////////
+

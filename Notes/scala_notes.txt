@@ -5,3 +5,11 @@ exec scala "$0" "$@"
 
 ///////////////***********************//////////////
 
+//syntax for declaring a variable
+val(or var) name: datatype
+
+//Underscore are discoraged in scala as '_'(Underscore) is used as a Wild card character(symbol) in scala
+
+
+
+

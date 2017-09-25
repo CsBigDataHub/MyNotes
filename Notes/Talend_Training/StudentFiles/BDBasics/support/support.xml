@@ -1,0 +1,2703 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<document>
+   <ticket>
+      <ticketnumber id="3757" />
+      <customer>
+         <name>Taft</name>
+         <number>4461</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>06-01-2011</created>
+      <status>Pending</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9841" />
+      <customer>
+         <name>Fillmore</name>
+         <number>8204</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>26-02-2011</created>
+      <status>Closed</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9049" />
+      <customer>
+         <name>Grant</name>
+         <number>2270</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>25-07-2012</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8936" />
+      <customer>
+         <name>Johnson</name>
+         <number>8288</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>24-03-2010</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4635" />
+      <customer>
+         <name>Carter</name>
+         <number>9429</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>04-09-2011</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8452" />
+      <customer>
+         <name>Jefferson</name>
+         <number>1671</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>13-07-2010</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4620" />
+      <customer>
+         <name>McKinley</name>
+         <number>355</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>06-01-2010</created>
+      <status>Pending</status>
+      <matter>Software defect</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1244" />
+      <customer>
+         <name>Adams</name>
+         <number>466</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>27-02-2012</created>
+      <status>Pending</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5636" />
+      <customer>
+         <name>Harrison</name>
+         <number>7185</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>19-07-2011</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3701" />
+      <customer>
+         <name>Van Buren</name>
+         <number>6563</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>27-03-2011</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8817" />
+      <customer>
+         <name>Washington</name>
+         <number>4903</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>15-04-2011</created>
+      <status>Closed</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="705" />
+      <customer>
+         <name>Tyler</name>
+         <number>9404</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>31-10-2011</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="260" />
+      <customer>
+         <name>McKinley</name>
+         <number>1922</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>09-02-2010</created>
+      <status>Closed</status>
+      <matter>General help</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1919" />
+      <customer>
+         <name>Tyler</name>
+         <number>2352</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>27-12-2012</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1278" />
+      <customer>
+         <name>Johnson</name>
+         <number>8031</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>20-11-2010</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1935" />
+      <customer>
+         <name>Jefferson</name>
+         <number>827</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>29-06-2010</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2204" />
+      <customer>
+         <name>Madison</name>
+         <number>4134</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>06-01-2012</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9330" />
+      <customer>
+         <name>Adams</name>
+         <number>7860</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>23-10-2011</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6072" />
+      <customer>
+         <name>Eisenhower</name>
+         <number>672</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>31-01-2012</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2154" />
+      <customer>
+         <name>Madison</name>
+         <number>5254</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>05-06-2012</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="935" />
+      <customer>
+         <name>Eisenhower</name>
+         <number>4170</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>21-04-2010</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9909" />
+      <customer>
+         <name>Harrison</name>
+         <number>986</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>29-05-2011</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2129" />
+      <customer>
+         <name>Buchanan</name>
+         <number>3802</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>23-11-2011</created>
+      <status>Pending</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4535" />
+      <customer>
+         <name>Hayes</name>
+         <number>6037</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>23-11-2012</created>
+      <status>Pending</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8254" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>2394</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>24-07-2012</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5467" />
+      <customer>
+         <name>Buchanan</name>
+         <number>6300</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>26-12-2011</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7174" />
+      <customer>
+         <name>Carter</name>
+         <number>8781</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>18-10-2011</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6278" />
+      <customer>
+         <name>Lincoln</name>
+         <number>7744</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>06-02-2012</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="827" />
+      <customer>
+         <name>Garfield</name>
+         <number>937</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>19-07-2012</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2962" />
+      <customer>
+         <name>Tyler</name>
+         <number>5479</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>24-10-2010</created>
+      <status>Pending</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="117" />
+      <customer>
+         <name>Ford</name>
+         <number>1778</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>17-08-2010</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6402" />
+      <customer>
+         <name>Adams</name>
+         <number>9907</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>06-10-2011</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3701" />
+      <customer>
+         <name>Eisenhower</name>
+         <number>2064</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>01-10-2010</created>
+      <status>Pending</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4032" />
+      <customer>
+         <name>Washington</name>
+         <number>5603</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>15-02-2010</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6933" />
+      <customer>
+         <name>Wilson</name>
+         <number>7313</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>09-03-2011</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8275" />
+      <customer>
+         <name>Reagan</name>
+         <number>1110</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>29-09-2010</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9785" />
+      <customer>
+         <name>Clinton</name>
+         <number>8130</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>23-05-2010</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1758" />
+      <customer>
+         <name>Buchanan</name>
+         <number>293</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>18-11-2012</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5005" />
+      <customer>
+         <name>McKinley</name>
+         <number>5888</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>14-01-2012</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1864" />
+      <customer>
+         <name>Coolidge</name>
+         <number>8433</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>09-04-2010</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="318" />
+      <customer>
+         <name>Truman</name>
+         <number>8144</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>30-05-2011</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9658" />
+      <customer>
+         <name>Cleveland</name>
+         <number>8708</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>25-10-2010</created>
+      <status>Pending</status>
+      <matter>Software defect</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="959" />
+      <customer>
+         <name>Adams</name>
+         <number>733</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>03-01-2010</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="712" />
+      <customer>
+         <name>Adams</name>
+         <number>7247</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>16-03-2012</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1313" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>5934</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>11-11-2012</created>
+      <status>Pending</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7897" />
+      <customer>
+         <name>Harrison</name>
+         <number>7391</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>19-04-2011</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6968" />
+      <customer>
+         <name>Coolidge</name>
+         <number>8639</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>20-11-2011</created>
+      <status>Pending</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8643" />
+      <customer>
+         <name>Carter</name>
+         <number>6362</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>02-12-2011</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="965" />
+      <customer>
+         <name>Harrison</name>
+         <number>4914</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>15-04-2010</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1736" />
+      <customer>
+         <name>Monroe</name>
+         <number>9966</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>31-07-2011</created>
+      <status>Closed</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="525" />
+      <customer>
+         <name>Fillmore</name>
+         <number>9903</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>28-10-2011</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1188" />
+      <customer>
+         <name>Hayes</name>
+         <number>3526</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>15-03-2011</created>
+      <status>Pending</status>
+      <matter>Software defect</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3054" />
+      <customer>
+         <name>Jackson</name>
+         <number>4449</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>03-07-2010</created>
+      <status>Pending</status>
+      <matter>Software defect</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7197" />
+      <customer>
+         <name>Wilson</name>
+         <number>9687</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>20-10-2011</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2709" />
+      <customer>
+         <name>Hoover</name>
+         <number>2373</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>04-12-2010</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6756" />
+      <customer>
+         <name>Kennedy</name>
+         <number>6271</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>17-10-2010</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1311" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>2824</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>24-05-2011</created>
+      <status>Closed</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8958" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>9839</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>09-05-2011</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9911" />
+      <customer>
+         <name>Truman</name>
+         <number>4590</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>20-07-2011</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2502" />
+      <customer>
+         <name>Eisenhower</name>
+         <number>3120</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>13-12-2010</created>
+      <status>Pending</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9766" />
+      <customer>
+         <name>Adams</name>
+         <number>1819</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>01-02-2011</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5480" />
+      <customer>
+         <name>Arthur</name>
+         <number>6989</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>21-01-2011</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4051" />
+      <customer>
+         <name>Jackson</name>
+         <number>3034</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>23-10-2011</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9949" />
+      <customer>
+         <name>Carter</name>
+         <number>135</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>07-08-2012</created>
+      <status>Closed</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4069" />
+      <customer>
+         <name>Jackson</name>
+         <number>7875</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>18-02-2012</created>
+      <status>Pending</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6352" />
+      <customer>
+         <name>Fillmore</name>
+         <number>2095</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>04-09-2010</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6260" />
+      <customer>
+         <name>Quincy</name>
+         <number>8474</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>06-10-2010</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5317" />
+      <customer>
+         <name>Hayes</name>
+         <number>7824</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>02-08-2011</created>
+      <status>Pending</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8796" />
+      <customer>
+         <name>Taylor</name>
+         <number>4874</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>11-02-2010</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6868" />
+      <customer>
+         <name>Harrison</name>
+         <number>4453</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>26-03-2012</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9047" />
+      <customer>
+         <name>Hoover</name>
+         <number>6418</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>21-10-2010</created>
+      <status>Pending</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9596" />
+      <customer>
+         <name>Kennedy</name>
+         <number>3399</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>12-06-2011</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5719" />
+      <customer>
+         <name>Grant</name>
+         <number>3508</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>08-03-2010</created>
+      <status>Pending</status>
+      <matter>Software defect</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4828" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>3510</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>04-09-2012</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1935" />
+      <customer>
+         <name>Harrison</name>
+         <number>6660</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>06-10-2012</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3328" />
+      <customer>
+         <name>Buchanan</name>
+         <number>3379</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>23-04-2011</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8066" />
+      <customer>
+         <name>Adams</name>
+         <number>2261</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>29-01-2010</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4570" />
+      <customer>
+         <name>Tyler</name>
+         <number>3522</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>08-05-2011</created>
+      <status>Pending</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5583" />
+      <customer>
+         <name>Hayes</name>
+         <number>6940</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>16-03-2011</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1128" />
+      <customer>
+         <name>Van Buren</name>
+         <number>1554</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>04-05-2012</created>
+      <status>Pending</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5743" />
+      <customer>
+         <name>Washington</name>
+         <number>4984</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>02-02-2011</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3218" />
+      <customer>
+         <name>Hayes</name>
+         <number>6061</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>12-10-2012</created>
+      <status>Pending</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9371" />
+      <customer>
+         <name>Polk</name>
+         <number>5688</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>23-05-2012</created>
+      <status>Closed</status>
+      <matter>General help</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="927" />
+      <customer>
+         <name>Hayes</name>
+         <number>7293</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>12-04-2011</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6547" />
+      <customer>
+         <name>Johnson</name>
+         <number>77</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>10-06-2010</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4174" />
+      <customer>
+         <name>Jefferson</name>
+         <number>5380</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>06-05-2011</created>
+      <status>Closed</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7478" />
+      <customer>
+         <name>Carter</name>
+         <number>8891</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>09-07-2010</created>
+      <status>Pending</status>
+      <matter>Software defect</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2942" />
+      <customer>
+         <name>Jefferson</name>
+         <number>9206</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>06-07-2012</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8347" />
+      <customer>
+         <name>Monroe</name>
+         <number>6271</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>28-08-2012</created>
+      <status>Closed</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2816" />
+      <customer>
+         <name>Quincy</name>
+         <number>1624</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>03-03-2010</created>
+      <status>Closed</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8424" />
+      <customer>
+         <name>Taft</name>
+         <number>6041</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>27-07-2010</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3371" />
+      <customer>
+         <name>Johnson</name>
+         <number>9162</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>12-04-2012</created>
+      <status>Pending</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7240" />
+      <customer>
+         <name>Eisenhower</name>
+         <number>8</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>18-05-2010</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9442" />
+      <customer>
+         <name>Madison</name>
+         <number>6896</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>09-12-2012</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3092" />
+      <customer>
+         <name>Truman</name>
+         <number>199</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>29-05-2012</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7820" />
+      <customer>
+         <name>Pierce</name>
+         <number>1649</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>27-05-2010</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6693" />
+      <customer>
+         <name>Monroe</name>
+         <number>9430</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>27-01-2011</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4420" />
+      <customer>
+         <name>Jefferson</name>
+         <number>9173</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>27-12-2010</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6231" />
+      <customer>
+         <name>Monroe</name>
+         <number>7154</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>09-08-2011</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9446" />
+      <customer>
+         <name>Buchanan</name>
+         <number>3495</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>09-02-2012</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2650" />
+      <customer>
+         <name>Clinton</name>
+         <number>9962</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>13-04-2012</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="591" />
+      <customer>
+         <name>Carter</name>
+         <number>9073</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>19-03-2012</created>
+      <status>Closed</status>
+      <matter>General help</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6427" />
+      <customer>
+         <name>Grant</name>
+         <number>8686</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>13-05-2012</created>
+      <status>Closed</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6840" />
+      <customer>
+         <name>Johnson</name>
+         <number>8937</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>11-06-2012</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9628" />
+      <customer>
+         <name>Grant</name>
+         <number>6499</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>02-10-2010</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7871" />
+      <customer>
+         <name>Carter</name>
+         <number>4476</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>01-05-2011</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9560" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>4928</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>08-04-2012</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6630" />
+      <customer>
+         <name>Fillmore</name>
+         <number>5037</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>24-09-2012</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2773" />
+      <customer>
+         <name>Harrison</name>
+         <number>7201</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>07-01-2011</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5098" />
+      <customer>
+         <name>Fillmore</name>
+         <number>7994</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>10-12-2010</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="729" />
+      <customer>
+         <name>Adams</name>
+         <number>833</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>18-02-2011</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5802" />
+      <customer>
+         <name>Cleveland</name>
+         <number>2458</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>13-08-2010</created>
+      <status>Pending</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="911" />
+      <customer>
+         <name>Monroe</name>
+         <number>3876</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>25-12-2010</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4097" />
+      <customer>
+         <name>Harrison</name>
+         <number>2292</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>07-12-2010</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9664" />
+      <customer>
+         <name>Wilson</name>
+         <number>1737</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>06-08-2012</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8767" />
+      <customer>
+         <name>Quincy</name>
+         <number>6586</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>10-03-2010</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5564" />
+      <customer>
+         <name>Fillmore</name>
+         <number>3980</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>21-11-2010</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="977" />
+      <customer>
+         <name>Fillmore</name>
+         <number>8267</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>09-09-2012</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4598" />
+      <customer>
+         <name>Jefferson</name>
+         <number>3032</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>01-12-2010</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4133" />
+      <customer>
+         <name>Hayes</name>
+         <number>4004</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>06-09-2011</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="942" />
+      <customer>
+         <name>Lincoln</name>
+         <number>9205</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>14-04-2011</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9653" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>1069</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>24-08-2012</created>
+      <status>Pending</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9636" />
+      <customer>
+         <name>Coolidge</name>
+         <number>8935</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>08-06-2012</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6225" />
+      <customer>
+         <name>Adams</name>
+         <number>9320</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>27-03-2012</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9923" />
+      <customer>
+         <name>Harding</name>
+         <number>5679</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>29-05-2010</created>
+      <status>Open</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2583" />
+      <customer>
+         <name>Washington</name>
+         <number>8979</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>27-08-2010</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="581" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>5355</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>15-04-2012</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6311" />
+      <customer>
+         <name>Van Buren</name>
+         <number>7345</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>31-03-2010</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="991" />
+      <customer>
+         <name>Hayes</name>
+         <number>761</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>13-07-2011</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3758" />
+      <customer>
+         <name>Harding</name>
+         <number>140</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>29-08-2010</created>
+      <status>Closed</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4258" />
+      <customer>
+         <name>Washington</name>
+         <number>1872</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>06-10-2011</created>
+      <status>Pending</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8569" />
+      <customer>
+         <name>Buchanan</name>
+         <number>5620</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>06-10-2011</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1171" />
+      <customer>
+         <name>Nixon</name>
+         <number>1440</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>10-10-2011</created>
+      <status>Open</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8890" />
+      <customer>
+         <name>Grant</name>
+         <number>2136</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>28-03-2012</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6287" />
+      <customer>
+         <name>McKinley</name>
+         <number>7806</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>21-11-2011</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5776" />
+      <customer>
+         <name>Jackson</name>
+         <number>2300</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>05-07-2010</created>
+      <status>Open</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9925" />
+      <customer>
+         <name>Johnson</name>
+         <number>9335</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>26-10-2012</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7845" />
+      <customer>
+         <name>Buchanan</name>
+         <number>9423</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>07-06-2012</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2361" />
+      <customer>
+         <name>Tyler</name>
+         <number>7398</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>24-09-2011</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9721" />
+      <customer>
+         <name>Garfield</name>
+         <number>4386</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>04-12-2011</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9029" />
+      <customer>
+         <name>Wilson</name>
+         <number>7299</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>19-02-2010</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4293" />
+      <customer>
+         <name>Kennedy</name>
+         <number>3614</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>30-05-2010</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7981" />
+      <customer>
+         <name>Washington</name>
+         <number>9084</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>06-11-2012</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1348" />
+      <customer>
+         <name>Johnson</name>
+         <number>1309</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>23-10-2012</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3435" />
+      <customer>
+         <name>Truman</name>
+         <number>2620</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>03-02-2010</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7593" />
+      <customer>
+         <name>Eisenhower</name>
+         <number>1615</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>14-06-2010</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1674" />
+      <customer>
+         <name>Eisenhower</name>
+         <number>3877</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>30-06-2010</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5627" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>8867</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>20-01-2010</created>
+      <status>Open</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8096" />
+      <customer>
+         <name>Cleveland</name>
+         <number>1824</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>29-07-2010</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1893" />
+      <customer>
+         <name>McKinley</name>
+         <number>6607</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>09-10-2012</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6693" />
+      <customer>
+         <name>Fillmore</name>
+         <number>7844</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>22-12-2011</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6145" />
+      <customer>
+         <name>Pierce</name>
+         <number>8509</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>23-11-2012</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5774" />
+      <customer>
+         <name>Jackson</name>
+         <number>2090</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>02-07-2012</created>
+      <status>Closed</status>
+      <matter>General help</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7473" />
+      <customer>
+         <name>Van Buren</name>
+         <number>6891</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>29-08-2011</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6181" />
+      <customer>
+         <name>Eisenhower</name>
+         <number>3694</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>01-10-2011</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4429" />
+      <customer>
+         <name>Harrison</name>
+         <number>6978</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>24-04-2012</created>
+      <status>Pending</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="827" />
+      <customer>
+         <name>Cleveland</name>
+         <number>4247</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>05-11-2012</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9292" />
+      <customer>
+         <name>Adams</name>
+         <number>7572</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>03-06-2011</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6822" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>6455</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>07-09-2011</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8995" />
+      <customer>
+         <name>Nixon</name>
+         <number>1300</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>11-12-2010</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3972" />
+      <customer>
+         <name>Garfield</name>
+         <number>2392</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>18-07-2010</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7786" />
+      <customer>
+         <name>Quincy</name>
+         <number>103</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>08-09-2010</created>
+      <status>Pending</status>
+      <matter>Software defect</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5967" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>8265</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>18-01-2010</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9123" />
+      <customer>
+         <name>Monroe</name>
+         <number>4125</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>05-02-2010</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3015" />
+      <customer>
+         <name>Polk</name>
+         <number>5099</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>23-11-2011</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6876" />
+      <customer>
+         <name>Washington</name>
+         <number>4677</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>06-07-2010</created>
+      <status>Closed</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7233" />
+      <customer>
+         <name>Coolidge</name>
+         <number>7258</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>07-09-2011</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8355" />
+      <customer>
+         <name>McKinley</name>
+         <number>4423</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>06-05-2012</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4574" />
+      <customer>
+         <name>Kennedy</name>
+         <number>3228</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>26-11-2012</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4207" />
+      <customer>
+         <name>Washington</name>
+         <number>472</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>23-10-2011</created>
+      <status>Pending</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9582" />
+      <customer>
+         <name>Madison</name>
+         <number>5550</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>12-11-2012</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2728" />
+      <customer>
+         <name>Adams</name>
+         <number>8525</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>05-03-2011</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1763" />
+      <customer>
+         <name>Pierce</name>
+         <number>9346</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>27-01-2011</created>
+      <status>Pending</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8618" />
+      <customer>
+         <name>Washington</name>
+         <number>8747</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>12-08-2012</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4870" />
+      <customer>
+         <name>Adams</name>
+         <number>1331</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>28-05-2010</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8726" />
+      <customer>
+         <name>Madison</name>
+         <number>6527</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>24-03-2011</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="2865" />
+      <customer>
+         <name>Arthur</name>
+         <number>3737</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>10-02-2012</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9827" />
+      <customer>
+         <name>Taft</name>
+         <number>3791</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>31-08-2012</created>
+      <status>Pending</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8886" />
+      <customer>
+         <name>Johnson</name>
+         <number>57</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>22-05-2012</created>
+      <status>Closed</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5957" />
+      <customer>
+         <name>Quincy</name>
+         <number>9031</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>07-08-2011</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5970" />
+      <customer>
+         <name>Harrison</name>
+         <number>2024</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>24-02-2012</created>
+      <status>Pending</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5359" />
+      <customer>
+         <name>Jackson</name>
+         <number>6716</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>22-10-2011</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="851" />
+      <customer>
+         <name>Jefferson</name>
+         <number>9743</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>10-03-2010</created>
+      <status>Open</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9568" />
+      <customer>
+         <name>Johnson</name>
+         <number>9248</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>23-09-2010</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4599" />
+      <customer>
+         <name>Nixon</name>
+         <number>9385</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>13-11-2010</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9687" />
+      <customer>
+         <name>Fillmore</name>
+         <number>7118</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>21-09-2012</created>
+      <status>Closed</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6408" />
+      <customer>
+         <name>Grant</name>
+         <number>5357</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>03-02-2012</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7374" />
+      <customer>
+         <name>Washington</name>
+         <number>5450</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>09-05-2010</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9303" />
+      <customer>
+         <name>Arthur</name>
+         <number>6373</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>24-01-2012</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="603" />
+      <customer>
+         <name>Fillmore</name>
+         <number>7569</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>30-06-2011</created>
+      <status>Open</status>
+      <matter>Software defect</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9078" />
+      <customer>
+         <name>Kennedy</name>
+         <number>7318</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>18-03-2011</created>
+      <status>Open</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6719" />
+      <customer>
+         <name>Eisenhower</name>
+         <number>8774</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>12-01-2011</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="229" />
+      <customer>
+         <name>Hayes</name>
+         <number>1344</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>17-03-2010</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7825" />
+      <customer>
+         <name>Johnson</name>
+         <number>5977</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>25-06-2010</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5197" />
+      <customer>
+         <name>Buchanan</name>
+         <number>9092</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>10-01-2012</created>
+      <status>Open</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6065" />
+      <customer>
+         <name>Madison</name>
+         <number>1372</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>04-10-2012</created>
+      <status>Closed</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5679" />
+      <customer>
+         <name>Jackson</name>
+         <number>4472</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>28-05-2012</created>
+      <status>Closed</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8811" />
+      <customer>
+         <name>Carter</name>
+         <number>790</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>05-01-2010</created>
+      <status>Pending</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7334" />
+      <customer>
+         <name>Quincy</name>
+         <number>8893</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>03-03-2012</created>
+      <status>Open</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6307" />
+      <customer>
+         <name>Monroe</name>
+         <number>9922</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>19-02-2010</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1631" />
+      <customer>
+         <name>Grant</name>
+         <number>8382</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>06-05-2010</created>
+      <status>Open</status>
+      <matter>General help</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6819" />
+      <customer>
+         <name>Madison</name>
+         <number>4053</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>10-06-2010</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1174" />
+      <customer>
+         <name>Arthur</name>
+         <number>484</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>22-11-2012</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6808" />
+      <customer>
+         <name>Hayes</name>
+         <number>9485</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>16-08-2010</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7245" />
+      <customer>
+         <name>Polk</name>
+         <number>372</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>30-08-2011</created>
+      <status>Open</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="6183" />
+      <customer>
+         <name>Van Buren</name>
+         <number>7314</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>18-12-2010</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="893" />
+      <customer>
+         <name>Cleveland</name>
+         <number>8077</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>23-09-2011</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1169" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>2711</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>18-05-2011</created>
+      <status>Open</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1339" />
+      <customer>
+         <name>Wilson</name>
+         <number>1245</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>16-04-2012</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9821" />
+      <customer>
+         <name>Buchanan</name>
+         <number>5388</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>27-10-2012</created>
+      <status>Pending</status>
+      <matter>General help</matter>
+      <staff staffid="HEK" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7992" />
+      <customer>
+         <name>Harding</name>
+         <number>344</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>07-11-2011</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7728" />
+      <customer>
+         <name>Kennedy</name>
+         <number>9402</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>20-02-2011</created>
+      <status>Pending</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4852" />
+      <customer>
+         <name>Polk</name>
+         <number>5735</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>22-03-2010</created>
+      <status>Closed</status>
+      <matter>Damaged in shipping</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="3960" />
+      <customer>
+         <name>Madison</name>
+         <number>2966</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>20-04-2010</created>
+      <status>Pending</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="SED" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="8621" />
+      <customer>
+         <name>Ford</name>
+         <number>8513</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>02-09-2010</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="9769" />
+      <customer>
+         <name>Coolidge</name>
+         <number>1427</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>19-09-2010</created>
+      <status>Closed</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4269" />
+      <customer>
+         <name>Washington</name>
+         <number>9542</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>30-03-2011</created>
+      <status>Pending</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="5103" />
+      <customer>
+         <name>Carter</name>
+         <number>9081</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>12-01-2010</created>
+      <status>Closed</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4378" />
+      <customer>
+         <name>Polk</name>
+         <number>3585</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>23-01-2011</created>
+      <status>Closed</status>
+      <matter>General help</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="475" />
+      <customer>
+         <name>Johnson</name>
+         <number>7982</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>14-07-2012</created>
+      <status>Open</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="UHY" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1036" />
+      <customer>
+         <name>Coolidge</name>
+         <number>7963</number>
+      </customer>
+      <product productid="PR Master 200" />
+      <created>11-02-2010</created>
+      <status>Closed</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="4207" />
+      <customer>
+         <name>Polk</name>
+         <number>4418</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>05-03-2011</created>
+      <status>Closed</status>
+      <matter>Software defect</matter>
+      <staff staffid="LYR" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1577" />
+      <customer>
+         <name>Clinton</name>
+         <number>7635</number>
+      </customer>
+      <product productid="HN-2245XRF" />
+      <created>10-11-2011</created>
+      <status>Pending</status>
+      <matter>Operating instructions</matter>
+      <staff staffid="KGF" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="7605" />
+      <customer>
+         <name>Johnson</name>
+         <number>6206</number>
+      </customer>
+      <product productid="HL-2140J" />
+      <created>05-10-2011</created>
+      <status>Open</status>
+      <matter>Setup error / Power on self-test failure</matter>
+      <staff staffid="NBB" />
+   </ticket>
+   <ticket>
+      <ticketnumber id="1946" />
+      <customer>
+         <name>Roosevelt</name>
+         <number>1129</number>
+      </customer>
+      <product productid="SNR 200ASD" />
+      <created>09-09-2011</created>
+      <status>Open</status>
+      <matter>Incomplete or missing shipment</matter>
+      <staff staffid="NBB" />
+   </ticket>
+</document>

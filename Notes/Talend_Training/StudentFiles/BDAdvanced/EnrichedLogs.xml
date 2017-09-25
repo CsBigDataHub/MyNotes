@@ -1,0 +1,38 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="false" label="user_id"
+        length="-1" nullable="true" originalDbColumnName="user_id"
+        originalLength="0" pattern="" precision="-1"
+        talendType="id_Integer" type=""/>
+    <column comment="" default="" key="false" label="FirstName"
+        length="50" nullable="true" originalDbColumnName="FirstName"
+        originalLength="0" pattern="" precision="-1"
+        talendType="id_String" type="VARCHAR"/>
+    <column comment="" default="" key="false" label="LastName"
+        length="50" nullable="true" originalDbColumnName="LastName"
+        originalLength="0" pattern="" precision="-1"
+        talendType="id_String" type="VARCHAR"/>
+    <column comment="" default="" key="false" label="Country"
+        length="50" nullable="true" originalDbColumnName="Country"
+        originalLength="0" pattern="" precision="-1"
+        talendType="id_String" type="VARCHAR"/>
+    <column comment="" default="" key="false" label="Support"
+        length="50" nullable="true" originalDbColumnName="Support"
+        originalLength="0" pattern="" precision="-1"
+        talendType="id_String" type="VARCHAR"/>
+    <column comment="" default="" key="false" label="InscriptionDate"
+        length="-1" nullable="true"
+        originalDbColumnName="InscriptionDate" originalLength="0"
+        pattern="&quot;dd-MM-yyyy&quot;" precision="-1"
+        talendType="id_Date" type="DATETIME"/>
+    <column comment="" default="" key="false" label="email" length="50"
+        nullable="true" originalDbColumnName="email" originalLength="0"
+        pattern="" precision="-1" talendType="id_String" type="VARCHAR"/>
+    <column comment="" default="" key="false" label="telephone"
+        length="-1" nullable="true" originalDbColumnName="telephone"
+        originalLength="0" pattern="" precision="-1"
+        talendType="id_Integer" type="INT"/>
+    <column comment="" default="" key="false" label="url" length="-1"
+        nullable="true" originalDbColumnName="url" originalLength="0"
+        pattern="" precision="-1" talendType="id_String" type=""/>
+</schema>

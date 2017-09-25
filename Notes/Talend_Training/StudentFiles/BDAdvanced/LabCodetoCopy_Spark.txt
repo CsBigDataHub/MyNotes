@@ -1,0 +1,95 @@
+--------------------------------------------------------------
+------------- INTRODUCTION TO KAFKA --------------------------
+--------------------------------------------------------------
+
+---- PUBLISHING MESSAGES TO KAFKA -----
+"hadoopcluster:2181"
+"hadoopcluster:9092"
+output_row.SerializedData = input_row.SerializedData.getBytes();
+
+---- CONSUMING MESSAGES -----
+"rootTag/customer/Id"
+"rootTag/customer/FirstName"
+"rootTag/customer/LastName"
+
+--------------------------------------------------------------
+------------- INTRODUCTION TO SPARK --------------------------
+--------------------------------------------------------------
+
+---- CUSTOMER DATA ANALYSIS -----
+CustomersDataAnalysis
+"/user/student/BDAdvanced/CustomersData.csv"
+row1.State.equals("California")
+"/user/student/BDAdvanced/CustomersDataOut"
+"/user/student/BDAdvanced/CustomersDataOut/AnalysisResults.csv"
+"spark://hadoopcluster:7077"
+"/user/spark/share/lib"
+"studentpc"
+
+--------------------------------------------------------------
+------------- GENERATING ENRICHED LOGS -----------------------
+--------------------------------------------------------------
+
+---- GENERATE RAW LOGS -----
+Spark_Home
+"/user/spark/share/lib"
+Spark_Host
+"spark://hadoopcluster:7077"
+Broker_list
+hadoopcluster:9092
+"/why-talend","/download/products/big-data","/download/products/integration-cloud","/download/products/data-integration","/download/products/application-integration","/download/products/mdm","/download/products/talend-open-studio","/services/technical-support","/services/training","/services/consulting","/customers", "/resources","/about-us","/blog","/ecosystem/partners","/partners/find-a-partner", "/contact"
+"spark.cores.max"
+
+---- GENERATE ENRICHED LOGS -----
+"SELECT 
+  `users_reference`.`User_id`, 
+  `users_reference`.`FirstName`, 
+  `users_reference`.`LastName`, 
+  `users_reference`.`Country`, 
+  `users_reference`.`Support`, 
+  `users_reference`.`InscriptionDate`, 
+  `users_reference`.`email`, 
+  `users_reference`.`telephone`
+FROM `users_reference`
+WHERE `users_reference`.`User_id`="+row2.user_id
+
+------------------------------------------------------
+------------- MONITORING  LOGS -----------------------
+------------------------------------------------------
+"studentpc:9200"
+"usersinfo"
+"frusers"
+"ususers"
+"others"
+"http://localhost:8080/kibana"
+
+-----------------------------------------------
+------------- REPORTING -----------------------
+-----------------------------------------------
+"/user/student/BDAdvanced/DownloadReports/"
+"/user/student/BDAdvanced/ServicesReports/"
+
+----------------------------------------------------
+------------- BATCH ANALYSIS -----------------------
+----------------------------------------------------
+"spark.executor.extraClassPath"
+"/opt/cloudera/parcels/CDH/lib/hbase/lib/*"
+"spark.driver.extraClassPath"
+"/etc/hbase/conf:/opt/cloudera/parcels/CDH/lib/hbase/lib/htrace-core-3.1.0-incubating.jar"
+
+
+---------------------------------------------------------
+------------- SPAM CLASSIFICATION -----------------------
+---------------------------------------------------------
+"C:/StudentFiles/BDAdvanced/Spam/testSet"
+"/user/student/BDAdvanced/Spam/testSet"
+"C:/StudentFiles/BDAdvanced/Spam/trainingSet"
+"/user/student/BDAdvanced/Spam/trainingSet"
+pattern=\\W;minTokenLength=3
+inputCols=sms_tf_idf_vect,num_currency,num_numeric,num_exclamation
+"/user/student/BDAdvanced/Spam/ClassificationModel"
+"C:/tmp/winutils"
+
+
+
+

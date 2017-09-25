@@ -1,0 +1,82 @@
+-----------------------------------------
+--------- CLICKSTREAM USE CASE ----------
+-----------------------------------------
+
+--- DEVELOPMENT ENVIRONMENT -----
+http://hadoopcluster:7180
+HDFS_connection
+ClickStream_context
+LOCAL_ROOT_DIRECTORY
+HDFS_ROOT_DIRECTORY
+"C:/StudentFiles/BDAdvanced/ClickStream/"
+"/user/student/clickstream/"
+
+--- LOAD DATA FILES TO HDFS ----
+LoadWebLogsHDFS
+context.HDFS_ROOT_DIRECTORY+"input"
+context.LOCAL_ROOT_DIRECTORY
+
+--- ENRICH LOGS -----
+context.HDFS_ROOT_DIRECTORY+"input/Omniture.tsv"
+context.HDFS_ROOT_DIRECTORY+"input/urlmap.tsv"
+logs.Column12
+TalendDate.parseDate("yyyy-MM-dd HH:mm:ss",logs.Column1) 
+logs.Column13.replace("{","").replace("}","")  
+StringHandling.UPCASE(logs.Column52)
+products.category
+context.HDFS_ROOT_DIRECTORY+"input/regusers.tsv"
+users.GENDER_CD  != null ? users.GENDER_CD : "U"
+context.HDFS_ROOT_DIRECTORY+"input/rejects/url_rejects"
+context.HDFS_ROOT_DIRECTORY+"results/join_results"
+
+--- COMPUTE STATISTICS -----
+context.HDFS_ROOT_DIRECTORY+"results/join_results"
+
+--- RESOURCE MANAGEMENT WITH YARN -----
+hadoopcluster:8088
+
+------------------------------------------------
+--------- SENTIMENT ANALYSIS USE CASE ----------
+------------------------------------------------
+
+--- LOAD LOOKUP DATA -----
+"/user/student/sentiment/lookup"
+"/user/student/sentiment/twitter_analysis"
+"C:/StudentFiles/BDAdvanced/Sentiment/dictionary/dictionary.tsv"
+"/user/student/sentiment/lookup/dictionary"
+"C:/StudentFiles/BDAdvanced/Sentiment/time_zone_map/time_zone_map.tsv"
+"/user/student/sentiment/lookup/timezone"
+
+--- LOAD TWEETS -----
+"https://api.twitter.com/1.1/search/tweets.json"
+context.HASHTAG_QUERY
+"count"
+"result_type"
+"mixed"
+"AAAAAAAAAAAAAAAAAAAAAOnGUwAAAAAAASlaRBWm7y%2BhNmnYmvUIBuM91Ws%3DZaDRhPsQaBHDjjcthoXYvW9ju3hWfnbsxOFlnd4qhSwo8uSZ3h"
+[rest.body:/root/statuses/text].replaceAll(String.valueOf((char)0x0A), " ").replaceAll(String.valueOf((char)0x0D), " ")
+("").equals([rest.body:/root/statuses/user/time_zone]) ? Tweets_Generator.getCountry() : [rest.body:/root/statuses/user/time_zone]
+[rest.body:/root/statuses/user/followers_count] + [rest.body:/root/statuses/user/friends_count] + [rest.body:/root/statuses/user/listed_count] + [rest.body:/root/statuses/user/favourites_count] + [rest.body:/root/statuses/user/statuses_count] + [rest.body:/root/statuses/retweet_count] + [rest.body:/root/statuses/favorite_count] 
+"/user/student/sentiment/lookup/dictionary"
+StringHandling.DOWNCASE([row2.NORMALIZED_FIELD:/record/WORDS])
+Tweets_Generator.getTrend(row3.polarity)
+HASHTAG_QUERY
+
+--- PROCESS TWEETS WITH MAPREDUCE -----
+"/user/student/sentiment/tweets"
+"/user/student/sentiment/lookup/timezone"
+TalendDate.getDate("CCYY-MM-DD")
+"/user/student/sentiment/tweets_analysis"
+
+--- SCHEDULING JOB EXECUTION -----
+ImportTweets_deploy
+Tweets_analysis_deploy
+TweetsVisualization_deploy
+"C:/StudentFiles/BDAdvanced/Sentiment/tweets_trend_"+TalendDate.getDate("HH_mm_ss")+".html"
+C:\StudentFiles\BDAdvanced\Sentiment\ImportTweets_deploy_0.1.zip
+C:\StudentFiles\BDAdvanced\Sentiment\Tweets_analysis_deploy_0.1.zip
+C:\StudentFiles\BDAdvanced\Sentiment\TweetsVisualization_deploy_0.1.zip
+http://localhost:8080/org.talend.administrator
+
+
+

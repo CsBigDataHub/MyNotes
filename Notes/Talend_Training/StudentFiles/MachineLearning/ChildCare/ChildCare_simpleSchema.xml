@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema>
+    <column comment="" default="" key="false" label="True_Id"
+        length="-1" nullable="true" originalDbColumnName="True_Id"
+        originalLength="0" pattern="&quot;dd-MM-yyyy&quot;"
+        precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Source" length="37"
+        nullable="true" originalDbColumnName="Source" originalLength="0"
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Site_name"
+        length="73" nullable="true" originalDbColumnName="Site_name"
+        originalLength="0" pattern="&quot;dd-MM-yyyy&quot;"
+        precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Address"
+        length="31" nullable="true" originalDbColumnName="Address"
+        originalLength="0" pattern="&quot;dd-MM-yyyy&quot;"
+        precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Zip" length="0"
+        nullable="true" originalDbColumnName="Zip" originalLength="0"
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Phone" length="7"
+        nullable="true" originalDbColumnName="Phone" originalLength="0"
+        pattern="&quot;dd-MM-yyyy&quot;" precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Program_Name"
+        length="30" nullable="true" originalDbColumnName="Program_Name"
+        originalLength="0" pattern="&quot;dd-MM-yyyy&quot;"
+        precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Length_of_Day"
+        length="30" nullable="true" originalDbColumnName="Length_of_Day"
+        originalLength="0" pattern="&quot;dd-MM-yyyy&quot;"
+        precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Director"
+        length="0" nullable="true" originalDbColumnName="Director"
+        originalLength="0" pattern="&quot;dd-MM-yyyy&quot;"
+        precision="0" talendType="id_String"/>
+    <column comment="" default="" key="false" label="Email_Address"
+        length="0" nullable="true" originalDbColumnName="Email_Address"
+        originalLength="0" pattern="&quot;dd-MM-yyyy&quot;"
+        precision="0" talendType="id_String"/>
+</schema>

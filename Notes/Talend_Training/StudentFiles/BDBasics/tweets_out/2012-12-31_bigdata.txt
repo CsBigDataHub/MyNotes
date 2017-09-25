@@ -1,0 +1,100 @@
+﻿BIconnections; Wed, 20 Feb 2013;21:37:36;they were checking out; RT @JodyEdmondson: #ML #BIGDATA bit.ly/YnnaM3
+BusinessTIC; Wed, 20 Feb 2013;21:15:00;they were checking out; #BigData y el interés de las empresas por ordenar información #cloud #nube #cloudcomputing goo.gl/ywyGr #NIMBOSFERA
+Alan David Duncan; Wed, 20 Feb 2013;21:36:58;they were checking out; “@ted_friedman: Stop hyping #BigData, start thinking "long" bit.ly/XHX5Ho” Oh no! Not another BS-Bingo Buzzphrase?! #StopItPlease
+Holger Mueller; Wed, 20 Feb 2013;21:36:52;they replied to; @rwang0 And for the 1st time #BigData lets us collect all signals, incl some context. The #Analytics on top are hard. #Analyticschat
+Josep Sauleda; Wed, 20 Feb 2013;21:36:30;they were checking out; RT @DataStax: Have MIT researchers found the next frontier of data storage? ow.ly/hcazU #BigData via @IMJustinKern
+jody edmondson; Wed, 20 Feb 2013;21:36:15;they were checking out; #ML #BIGDATA bit.ly/YnnaM3
+GigaOM Pro; Wed, 20 Feb 2013;21:35:56;they were checking out; Meet @GigaOMPro in New York City: 30 days to go until Structure:Data - ow.ly/hTLrg #dataconf #bigdata
+Ivanhoe; Wed, 20 Feb 2013;21:35:55;they were checking out; #opensource vendor Red Hat's #bigdata strategy: A full stack approach zdnet.com/red-hats-big-d…
+Mike Madsen; Wed, 20 Feb 2013;21:35:52;they were checking out; RT @IBMAnalytics: How the flow of #bigdata is pumping life into water investment by @WorldsWaterFund CEO Scott Rickards ibm.co/Z2oPcT #ibmanalytics
+Dusty; Wed, 20 Feb 2013;21:35:19;they were checking out; How #M2M and #BigData will combine to produce everyday benefits #bi bit.ly/W8E9SO
+Mark Miller; Wed, 20 Feb 2013;21:34:40;they were checking out; Why Do #BigData & Programmatic #Marketing Actually Matter? selnd.com/11VPiyc pic.twitter.com/vYvg2t4V3Z
+Infosys Connect; Wed, 20 Feb 2013;21:33:50;they were checking out; RT @InfosysCloud: Watch @Infosys, @InformationWeek & @Cloudera experts talk about #BigData today at 6 PM EST. Register now bit.ly/Ycjkpz
+Infosys Connect; Wed, 20 Feb 2013;21:33:47;they were checking out; RT @InfosysCloud: Unlocking the Business Value of #BigData: Infosys BigDataEdge infy.com/XoOb2D #IDC #Analytics
+Scott; Wed, 20 Feb 2013;21:33:26;they were checking out; What Data Can’t Do nyti.ms/WJcp9s #strataconf #bigdata
+Teradata News; Wed, 20 Feb 2013;21:33:03;they were checking out; #BigData #Analytic Trend 5: Storage is Not Enough - CIOs moving past just storing massive amounts of diverse data: bit.ly/1540bfb
+TrueLens; Wed, 20 Feb 2013;21:33:00;they were checking out; The real story of how #BigData #analytics helped #Obama win bit.ly/Vtokce
+Dave Capuano; Wed, 20 Feb 2013;21:32:30;they were checking out; What Data Can’t Do nyti.ms/WJcp9s #bigdata
+Jason Kapler; Wed, 20 Feb 2013;21:32:12;they said; RT @mich8elwu: Relevance = is how relevant is data to the problem u are facing. #BigData is big, but most are irrelevant to ur problem #analyticsChat
+Michael Wu Ph.D.; Wed, 20 Feb 2013;21:31:30;they said; Relevance = is how relevant is data to the problem u are facing. #BigData is big, but most are irrelevant to ur problem #analyticsChat
+Informatica Resource; Wed, 20 Feb 2013;21:30:55;they were checking out; Webinar Replay: How to build the Business Case & Establishing the Fundamentals for #BigData Projects bit.ly/SEcehw @InformaticaCorp
+Alan David Duncan; Wed, 20 Feb 2013;21:30:53;they were checking out; RT @infomgmt: Big #bigdata problem: "Long or time series data can often lift analytics arguments from inadequate to compelling" bit.ly/Zs6z0y
+HP Application Srvs; Wed, 20 Feb 2013;21:30:49;they were checking out; Did you miss the #HP and @Forrester #bigdata webinar? Replay now! bit.ly/Vs2O5Z
+Giorgio Vernoni; Wed, 20 Feb 2013;21:30:39;they replied to; @dionysiaco #BigData is the new (Far?) West. / @IDCItaly @urukwavu @cla_ieri
+IBM InfoSphere; Wed, 20 Feb 2013;21:30:35;they were checking out; The age of #bigdata has arrived! Get a handle on your data by attending the #BDIGforum in Los Angeles on Feb 21: bit.ly/XFVX96
+Cloud Expo™; Wed, 20 Feb 2013;21:30:19;they were checking out; [Promoted Tweet] #Hortonworks & #Microsoft Are Bringing #Apache #Hadoop to Windows. View Webcast ▸ bit.ly/TCBUqQ #Cloud #BigData
+Buytes; Wed, 20 Feb 2013;21:30:04;they were checking out; Riding on Data Driven Journey bit.ly/W9q07X #bigdata #cloud #dataintelligence #datamining #Innovation #organization
+Manish Bhatt; Wed, 20 Feb 2013;21:30:03;they were checking out; A first look at NYU big data campus bit.ly/YGZbIG #BigData
+Karen Schopp; Wed, 20 Feb 2013;21:30:00;they were checking out; Cure the data deluge by keeping it simple by @cfhosford via BtoB bit.ly/W4kKrq #bigdata #analytics
+Gleana Albritton; Wed, 20 Feb 2013;21:29:44;they; Intrigued by the @xbox second screen experience...do the brands have access to the #bigdata generated there? #smwnyc #smwsocialtv
+Stephane Champion; Wed, 20 Feb 2013;21:29:42;they were checking out; #BigData [Video] – transform your big data into something usable! pub.vitrue.com/tgzk
+Giando; Wed, 20 Feb 2013;21:28:59;they were checking out; RT @YvesMulkers: so we think #bigdata, but in reality.... twitrpix.com/bd8rf @giorgiovernoni @cla_ieri
+Vincent Theeten; Wed, 20 Feb 2013;21:28:49;they were checking out; DNA sequencing costed >4 billion $ and 13 yrs with 26 people, a student now does it in 1 year on #amazon EC2 zite.to/YmrQ50 #bigdata
+OpenMediation; Wed, 20 Feb 2013;21:28:20;they were checking out; Ben Lorica (@Bigdata) made a Chart with the 2012 Revenue of some #BigData companies ::: bizq.de/1fb #Analytics @Wikibon
+Cory Treffiletti; Wed, 20 Feb 2013;21:28:08;they were checking out; RT @EmpiricalPath: No argument here...RT @qlikview: As #BigData gets bigger, so does the need for storytelling, according to @ctreff: ar.gy/3TIs
+BIconnections; Wed, 20 Feb 2013;21:27:57;they were checking out; RT @actulligence: Researchers Analyze #Twitter To Find Happiest Parts of the United States flip.it/r0imz #bigdata #dataviz
+BIconnections; Wed, 20 Feb 2013;21:27:56;they were checking out; RT @codyskinner: MT @workatplay: The role of #BigData in Netlfix's #HouseOfCards & the balance between analytics and creativity ow.ly/hTFIf
+BIconnections; Wed, 20 Feb 2013;21:27:56;they were checking out; RT @CIFeed: #bigdata The '2013 Big Data' Trend – will it last? - IT News Africa bit.ly/Y916Xf
+BIconnections; Wed, 20 Feb 2013;21:27:55;they were checking out; RT @FangFeng88: Thank you. RT @biconnections: Even Big Data Has Limits - The Zilliant Blog bit.ly/15lVTAS #bigdata #limit
+BIconnections; Wed, 20 Feb 2013;21:27:54;they were checking out; RT @IBMAnalytics: It's time for the #CMO to hit the laboratory ow.ly/hT2L6 (from @bandt) #smarteranalytics #bigdata
+BIconnections; Wed, 20 Feb 2013;21:27:53;they were checking out; RT @Joy12110: RT @Polaris_Project: Using #bigdata to fight #humantrafficking bit.ly/15tTJzi
+BIconnections; Wed, 20 Feb 2013;21:27:52;they were checking out; RT @IBMbigdata: Going to Mobile World Congress? Here's info on IBM #bigdata demos, sessions, events ibm.co/XpRwyn #mwc13
+BIconnections; Wed, 20 Feb 2013;21:27:52;they were checking out; RT @rukawz: #BigData Conshohocken big data firm Monetate says world is ready for it now - Philadelphia Business Journal (blog) ow.ly/2v09RP
+Melanie Wise; Wed, 20 Feb 2013;21:27:46;they were checking out; RT #BigData market projected to reach $18.1 bil in 2013, annual growth of 61%; on pace to exceed $47 bil by 2017 bit.ly/XpRGFZ
+Rukawa; Wed, 20 Feb 2013;21:26:57;they were checking out; #BigData Conshohocken big data firm Monetate says world is ready for it now - Philadelphia Business Journal (blog) ow.ly/2v09RP
+IBM big data; Wed, 20 Feb 2013;21:26:25;they were checking out; Going to Mobile World Congress? Here's info on IBM #bigdata demos, sessions, events ibm.co/XpRwyn #mwc13
+Alan David Duncan; Wed, 20 Feb 2013;21:26:24;they were checking out; RT @keepmving: Big Data is a Solution Looking for a Problem; #BigData: Forecast and Opportunities j.mp/W9qQl1
+Joy Mukherji; Wed, 20 Feb 2013;21:26:16;they were checking out; RT @Polaris_Project: Using #bigdata to fight #humantrafficking bit.ly/15tTJzi
+Splunk; Wed, 20 Feb 2013;21:25:24;they replied to; @Splunk used in #retailtechnology and #bigdata with ease. Live webinar sharing use cases 2/26 9am PT bit.ly/1577fbZ
+IBM SmarterAnalytics; Wed, 20 Feb 2013;21:25:10;they were checking out; It's time for the #CMO to hit the laboratory ow.ly/hT2L6 (from @bandt) #smarteranalytics #bigdata
+Fang Feng; Wed, 20 Feb 2013;21:24:35;they were checking out; Thank you. RT @biconnections: Even Big Data Has Limits - The Zilliant Blog bit.ly/15lVTAS #bigdata #limit
+BIconnections; Wed, 20 Feb 2013;21:37:35;they were checking out; RT @Alan_D_Duncan: “@ted_friedman: Stop hyping #BigData, start thinking "long" bit.ly/XHX5Ho” Oh no! Not another BS-Bingo Buzzphrase?! #StopItPlease
+Alan David Duncan; Wed, 20 Feb 2013;21:23:54;they were checking out; RT @CIFeed: #bigdata The '2013 Big Data' Trend – will it last? - IT News Africa bit.ly/Y916Xf
+Amanda Rappak; Wed, 20 Feb 2013;21:23:45;they were checking out; RT @codyskinner: MT @workatplay: The role of #BigData in Netlfix's #HouseOfCards & the balance between analytics and creativity ow.ly/hTFIf
+Frédéric Martinet; Wed, 20 Feb 2013;21:23:39;they were checking out; Researchers Analyze #Twitter To Find Happiest Parts of the United States flip.it/r0imz #bigdata #dataviz
+BIconnections; Wed, 20 Feb 2013;21:23:18;they were checking out; RT @Alan_D_Duncan: “@FrenchTechTour: Do you need big data governance? Maybe. ow.ly/hD4RL #bigdata” @SunilSoares1 always on good form #DataGovernance
+BIconnections; Wed, 20 Feb 2013;21:23:18;they said; RT @cesarlonga: Worldwide #BigData investment will reach the US$ 11B dollars for 2013. Source: #IDC
+BIconnections; Wed, 20 Feb 2013;21:23:17;they were checking out; RT @downtotheblock: #BigData hits the big time | Red Hat adopts big data downtotheblock.com/2013/02/red-ha…
+BIconnections; Wed, 20 Feb 2013;21:23:16;they were checking out; RT @alteryx: Future for #Predictive #Analytics & 2013 #BigData Predictions: Spotlight Q&A w @gkm1 of #Alteryx @BeyeNETWORK bit.ly/XD1XhB
+BIconnections; Wed, 20 Feb 2013;21:23:15;they were checking out; RT @MModal: #BI can help in two ways: financially and with patient outcomes bit.ly/ZdwkO7 | The importance of #bigdata bit.ly/XyXVIP
+BIconnections; Wed, 20 Feb 2013;21:23:13;they were checking out; RT @DataStax: Have MIT researchers found the next frontier of data storage? ow.ly/hcazU #BigData via @IMJustinKern
+BIconnections; Wed, 20 Feb 2013;21:23:13;they were checking out; RT @DigitalMaximist: Researchers say #AI prescribes better #treatment than# doctors #healthcare #innovation #bigdata decreased #cost gigaom.com/2013/02/11/res…
+BIconnections; Wed, 20 Feb 2013;21:23:12;they were checking out; RT @imbigdata: Wall Street Journal (blog) on.wsj.com/VLa4ye #BigData
+BIconnections; Wed, 20 Feb 2013;21:23:11;they were checking out; RT @karima_rafes: meetup.com/SemanticCampPa… Armadillo ( armadillo.fr/fr/ ) : Recherche de jeunes profils Bac+5/+8 #NoSQL #BigData #LOD #PHP #LinkedData
+BIconnections; Wed, 20 Feb 2013;21:23:11;they were checking out; RT @yuvankumar: The World's Top 10 Most Innovative Companies in #BigData | Most Innovative Companies 2013 | fastcompany.com/most-innovativ… via @FastCompany
+BIconnections; Wed, 20 Feb 2013;21:23:10;they were checking out; RT @Timothy_Hughes: RT @communispace: A great piece about #bigdata. Trusting numbers won't always work in your favor via @nytimes shrd.by/mneoPC
+BIconnections; Wed, 20 Feb 2013;21:23:10;they were checking out; RT @Timothy_Hughes: RT @causata: CMOs, Be Agents of Change with Customer Insights: shrd.by/kFrCTs #CXM #bigdata via @forrester
+BIconnections; Wed, 20 Feb 2013;21:23:09;they were checking out; RT @FangFeng88: Thanks, Matt. RT @MattRMorrison: Apply Big Data to the email fight bit.ly/XhhlAB #bigdata #email
+BIconnections; Wed, 20 Feb 2013;21:23:08;they were checking out; RT @CosimoAccoto: #BigData Enters a New Phase: Analytics 3.0 - The CIO Report - WSJ blogs.wsj.com/cio/2013/02/20… via @WSJ
+BIconnections; Wed, 20 Feb 2013;21:23:07;they were checking out; RT @FangFeng88: TY. RT @brightplanet: RT @FangFeng88: Big Data for Personal Use Is More Popular Than Ever bit.ly/15lRpdH #bigdata
+BIconnections; Wed, 20 Feb 2013;21:23:06;they said; RT @RaquelAbizanda: RT @emcspain: Mañana @alexgimenezf CTO #EMC estará presente en evento #IDG #BigData Hotel Hesperia ponencia a las 10h30
+Engagement Game Lab; Wed, 20 Feb 2013;21:22:40;they were checking out; RT @TechGoesHome: Interesting events re: Internet Censorship, Civic Engagement via online game, #BigData - ow.ly/hT3ZC via @berkmancenter
+Danny Teok; Wed, 20 Feb 2013;21:22:24;they said; 600-800mil twits for a day's worth of data to get to top 3 words twitted in under 2 secs with map reduce. #blownaway #BigData #emr
+Raquel Abizanda; Wed, 20 Feb 2013;21:21:52;they said; RT @emcspain: Mañana @alexgimenezf CTO #EMC estará presente en evento #IDG #BigData Hotel Hesperia ponencia a las 10h30
+Fang Feng; Wed, 20 Feb 2013;21:21:43;they were checking out; TY. RT @brightplanet: RT @FangFeng88: Big Data for Personal Use Is More Popular Than Ever bit.ly/15lRpdH #bigdata
+Frédéric Martinet; Wed, 20 Feb 2013;21:21:41;they were checking out; Citus Data Launches CitusDB, An Analytics Database Based On Google Dremel With Parallel Processing At Its Core flip.it/n2Flt #bigdata
+Nelson Piedra; Wed, 20 Feb 2013;21:21:08;they were checking out; The End of the Web, Search, and Computer as We Know It | Wired Opinion | Wired.com wired.com/opinion/2013/0… #SemanticWeb #BigData
+Cosimo Accoto; Wed, 20 Feb 2013;21:21:03;they were checking out; #BigData Enters a New Phase: Analytics 3.0 - The CIO Report - WSJ blogs.wsj.com/cio/2013/02/20… via @WSJ
+Fang Feng; Wed, 20 Feb 2013;21:21:00;they were checking out; Thanks, Matt. RT @MattRMorrison: Apply Big Data to the email fight bit.ly/XhhlAB #bigdata #email
+Timothy Hughes; Wed, 20 Feb 2013;21:20:55;they were checking out; RT @causata: CMOs, Be Agents of Change with Customer Insights: shrd.by/kFrCTs #CXM #bigdata via @forrester
+Timothy Hughes; Wed, 20 Feb 2013;21:20:47;they were checking out; RT @communispace: A great piece about #bigdata. Trusting numbers won't always work in your favor via @nytimes shrd.by/mneoPC
+Alan David Duncan; Wed, 20 Feb 2013;21:20:36;they were checking out; RT @yuvankumar: The World's Top 10 Most Innovative Companies in #BigData | Most Innovative Companies 2013 | fastcompany.com/most-innovativ… via @FastCompany
+Karima Rafes; Wed, 20 Feb 2013;21:20:15;they were checking out; meetup.com/SemanticCampPa… Armadillo ( armadillo.fr/fr/ ) : Recherche de jeunes profils Bac+5/+8 #NoSQL #BigData #LOD #PHP #LinkedData
+Manish Bhatt; Wed, 20 Feb 2013;21:20:03;they were checking out; Wall Street Journal (blog) on.wsj.com/VLa4ye #BigData
+Alan David Duncan; Wed, 20 Feb 2013;21:19:37;they were checking out; RT @DigitalMaximist: Researchers say #AI prescribes better #treatment than# doctors #healthcare #innovation #bigdata decreased #cost gigaom.com/2013/02/11/res…
+Alan David Duncan; Wed, 20 Feb 2013;21:19:23;they were checking out; RT @DataStax: Have MIT researchers found the next frontier of data storage? ow.ly/hcazU #BigData via @IMJustinKern
+SAP México & CA; Wed, 20 Feb 2013;21:18:49;they said; #FrasesdeNegocios: 'No todo lo que cuenta puede ser contado y no todo lo que puede ser contado cuenta.' #AlbertEinstein #BigData
+7L Networks Inc.; Wed, 20 Feb 2013;21:18:41;they were checking out; RT @BigDataGal: Big Data: A Natural Solution for Disaster Relief #bigdata bit.ly/YB37vC
+William Boonn; Wed, 20 Feb 2013;21:18:24;they were checking out; RT @MModal: #BI can help in two ways: financially and with patient outcomes bit.ly/ZdwkO7 | The importance of #bigdata bit.ly/XyXVIP
+Jill Yanofsky; Wed, 20 Feb 2013;21:18:24;they were checking out; RT @alteryx: Future for #Predictive #Analytics & 2013 #BigData Predictions: Spotlight Q&A w @gkm1 of #Alteryx @BeyeNETWORK bit.ly/XD1XhB
+Stephen Jones; Wed, 20 Feb 2013;21:18:08;they were checking out; #BigData hits the big time | Red Hat adopts big data downtotheblock.com/2013/02/red-ha…
+Cesar Longa; Wed, 20 Feb 2013;21:17:48;they said; Worldwide #BigData investment will reach the US$ 11B dollars for 2013. Source: #IDC
+Alan David Duncan; Wed, 20 Feb 2013;21:17:43;they were checking out; “@FrenchTechTour: Do you need big data governance? Maybe. ow.ly/hD4RL #bigdata” @SunilSoares1 always on good form #DataGovernance
+sara; Wed, 20 Feb 2013;21:17:30;they were checking out; RT @miguelful2: Lee El Diario de #PMLat - #pmot #pmi ▸ noticias destacadas del dia via @XhacTul ▸ paper.li/jucamvil/13097… #bigdata #cloud #nube
+fabio annovazzi; Wed, 20 Feb 2013;21:17:22;they were checking out; RT @datameer: Very cool. The Open Data Census - bit.ly/11VHSer #opendata #bigdata
+Daria; Wed, 20 Feb 2013;21:16:02;they were checking out; One of the most interesting and useful class readings I had: how bad statistics affects court trials ow.ly/hTdqp #bigdata
+Mandy Beasley; Wed, 20 Feb 2013;21:15:47;they were checking out; RT @tamaradull: Using The Crowd To Save People After Disasters | @FastCoExist ht.ly/hRTOO #bigdata #usecase
+Anya Studenc Downing; Wed, 20 Feb 2013;21:15:31;they were checking out; Retrieve data fast without loosing the detail of the data | HP Vertica ~ [video] ow.ly/hTaKQ #bigdata #analytics
+Nimbosfera; Wed, 20 Feb 2013;21:15:00;they were checking out; #BigData y el interés de las empresas por ordenar información #cloud #nube #cloudcomputing goo.gl/ywyGr #NIMBOSFERA
+Rafael Padura; Wed, 20 Feb 2013;21:15:00;they were checking out; #BigData y el interés de las empresas por ordenar información #cloud #nube #cloudcomputing goo.gl/ywyGr #NIMBOSFERA
+Corinne VILLANCE; Wed, 20 Feb 2013;21:24:20;they were checking out; RT @CandenRH - Déséquilibre entre rythme de l’#innovation et capacité d’#Adaptation pa @latelier - buff.ly/YDYSyl - #BigData #v

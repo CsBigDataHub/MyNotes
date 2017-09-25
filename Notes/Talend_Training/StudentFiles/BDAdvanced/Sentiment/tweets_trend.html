@@ -1,0 +1,168 @@
+
+<html>
+  <head>
+    <script type='text/javascript' src='https://www.google.com/jsapi'></script>
+    <script type='text/javascript'>
+     google.load('visualization', '1', {'packages': ['geochart', 'table']});
+     google.setOnLoadCallback(drawMarkersMap);
+
+      function drawMarkersMap() {
+      var data = google.visualization.arrayToDataTable([
+        ['Country', 'Trend', 'Tweets'],
+['FRANCE', 6.145122, 13],
+['UNITED STATES', 5.994156, 11],
+['GERMANY', 6.0, 6],
+['CZECH REPUBLIC', 6.0769234, 2],
+['INDIA', 6.3076925, 2],
+['ROMANIA', 6.2, 2],
+['ARMENIA', 6.0, 1],
+['BELARUS', 6.0, 1],
+['CHILE', 6.0, 1],
+['CHINA', 6.0, 1],
+['MEXICO', 5.866667, 1],
+['MOROCCO', 6.0, 1],
+['NETHERLANDS', 6.0, 1],
+['POLAND', 5.8333335, 1],
+['RUSSIAN FEDERATION', 5.9, 1],
+['SOUTH AFRICA', 6.0, 1],
+['SPAIN', 5.909091, 1],
+['SRI LANKA', 6.0, 1],
+['TONGA', 5.9166665, 1],
+['UNITED KINGDOM', 5.4, 1]
+      ]);
+
+      var options = {
+        region: 'world',
+        displayMode: 'markers',
+        colorAxis: {colors: ['red', 'yellow', 'green']}
+ 	 };
+
+	  var trendFormat = new google.visualization.NumberFormat({
+        fractionDigits: 1,
+      });
+  	  var countFormat = new google.visualization.NumberFormat({
+        fractionDigits: 0,
+      });
+	  trendFormat.format(data, 1); // Apply formatter to second column.
+	  countFormat.format(data, 2); // Apply formatter to third column.
+	
+      var chart = new google.visualization.GeoChart(document.getElementById('chart_div'));
+      chart.draw(data, options);
+
+      // Create and populate the data table.
+      var dataTable = google.visualization.arrayToDataTable([
+        		['Country', 'Trend', 'Tweets'],
+['FRANCE', 6.145122, 13],
+['UNITED STATES', 5.994156, 11],
+['GERMANY', 6.0, 6],
+['CZECH REPUBLIC', 6.0769234, 2],
+['INDIA', 6.3076925, 2],
+['ROMANIA', 6.2, 2],
+['ARMENIA', 6.0, 1],
+['BELARUS', 6.0, 1],
+['CHILE', 6.0, 1],
+['CHINA', 6.0, 1],
+['MEXICO', 5.866667, 1],
+['MOROCCO', 6.0, 1],
+['NETHERLANDS', 6.0, 1],
+['POLAND', 5.8333335, 1],
+['RUSSIAN FEDERATION', 5.9, 1],
+['SOUTH AFRICA', 6.0, 1],
+['SPAIN', 5.909091, 1],
+['SRI LANKA', 6.0, 1],
+['TONGA', 5.9166665, 1],
+['UNITED KINGDOM', 5.4, 1]
+      ]);
+
+	  trendFormat.format(dataTable, 1); // Apply formatter to second column.
+	  countFormat.format(dataTable, 2); // Apply formatter to third column.
+	
+      // Create and draw the visualization.
+      var tableChart = new google.visualization.Table(document.getElementById('table_div'));
+      tableChart.draw(dataTable, null);
+    };
+  </script>
+<style>	
+body {
+  font-family: arial, helvetica, sans-serif;
+  font-size: 12pt;
+  width: 900px;
+}
+
+div.header {
+    text-align: center;
+    margin-top: 30px;
+    margin-bottom: 30px;
+    clear: left;
+	width: 900px;
+	font-size: 24px;
+	font-weight: bold;
+}
+	
+.dot {
+	background: #000000;
+	width: 12px;
+	height: 12px;
+	border-radius: 50%;
+}
+.dot.green {
+  background-color: green;
+}
+.dot.yellow {
+  background-color: yellow;
+}
+.dot.red {
+  background-color: red;
+}
+
+#chart_div { border: 0px solid;  text-align: left;}
+
+#dotLegend table { border-collapse: collapse; text-align: left; width: 100%; } 
+#dotLegend table tbody td { color: #7D7D7D; font-size: 19px;font-weight: normal; padding: 0px 0px 0px 20px }
+#dotLegend table tbody tr .ldot { color: #7D7D7D; font-size: 12px;font-weight: normal; text-align: right;}
+
+  #tablegrid{
+      width:100%;
+      padding-top:30px;
+      padding-left:10px;
+      clear: both
+  }
+
+</style>
+
+  </head>
+  <body>
+	<div>
+  	<div class='header'>Tweets Tracking/Trending</div>		
+	<div id='dotLegend'>
+		<table>
+			<tr>
+				<td align='right'>Hashtag:</td>
+				<td>#talend</td>
+				<td class='ldot'>Positive</td>
+				<td><div class='dot green'> </div></td>
+			</tr>
+			<tr>
+				<td align='right'>Date:</td>
+				<td>2017-01-25</td>
+				<td class='ldot'>Neutral</td>
+				<td><div class='dot yellow'> </div></td>
+			</tr>
+			<tr>
+				<td></td>
+				<td></td>
+				<td class='ldot'>Negative</td>
+				<td><div class='dot red'> </div></td>
+			</tr>
+		</table>
+		</div>
+	    <div id='chart_div'></div>
+	</div>
+	
+   <div id='tablegrid'>
+      Table below is sortable - click on header to sort.  
+		<div id="table_div"></div>
+   </div>
+	
+  </body>
+</html>

@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schema dbmsId="hive_id">
+    <column comment="" default="" key="true" label="id" length="8"
+        nullable="true" originalDbColumnName="id" pattern=""
+        precision="-1" talendType="id_Integer" type="INT"/>
+    <column comment="" default="" key="false" label="customer"
+        length="8" nullable="true" originalDbColumnName="customer"
+        pattern="" precision="-1" talendType="id_Integer" type="INT"/>
+    <column comment="" default="" key="false" label="cust_name"
+        length="30" nullable="true" originalDbColumnName="cust_name"
+        pattern="" precision="-1" talendType="id_String" type="STRING"/>
+    <column comment="" default="" key="false" label="product" length="8"
+        nullable="true" originalDbColumnName="product" pattern=""
+        precision="-1" talendType="id_Integer" type="INT"/>
+    <column comment="" default="" key="false" label="quantity"
+        length="8" nullable="true" originalDbColumnName="quantity"
+        pattern="" precision="-1" talendType="id_Integer" type="INT"/>
+    <column comment="" default="" key="false" label="price" length="12"
+        nullable="true" originalDbColumnName="price" pattern=""
+        precision="2" talendType="id_Long" type="BIGINT"/>
+    <column comment="" default="" key="false" label="discount"
+        length="6" nullable="true" originalDbColumnName="discount"
+        pattern="" precision="2" talendType="id_Integer" type="INT"/>
+    <column comment="" default="" key="false" label="total" length="12"
+        nullable="true" originalDbColumnName="total" pattern=""
+        precision="2" talendType="id_Long" type="BIGINT"/>
+    <column comment="" default="" key="false" label="order_date"
+        length="-1" nullable="true" originalDbColumnName="order_date"
+        pattern="&quot;yyyy-MM-dd&quot;" precision="-1"
+        talendType="id_Date" type="STRING"/>
+    <column comment="" default="" key="false" label="shipped"
+        length="-1" nullable="true" originalDbColumnName="shipped"
+        pattern="&quot;yyyy-MM-dd&quot;" precision="-1"
+        talendType="id_Date" type="STRING"/>
+</schema>

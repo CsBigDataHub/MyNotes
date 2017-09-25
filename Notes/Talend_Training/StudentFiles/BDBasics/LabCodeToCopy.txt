@@ -1,0 +1,27 @@
+------------------------------------------------------------------------------------
+--------------------------- Working with Tables ------------------------------------
+------------------------------------------------------------------------------------
+
+--------------------------- Importing Tables with Sqoop ---------------------------
+"jdbc:mysql://hadoopcluster:3306/training"
+"/user/student/BDBasics/SqoopTable"
+
+
+------------------------------------------------------------------------------------
+--------------------------Processing Data and Tables in HDFS -----------------------
+------------------------------------------------------------------------------------
+
+-------------------------- Processing Hive tables with jobs ------------------------
+"select * from CustomersData  where CustomersData.Id<=100000"
+"/user/student/BDBasics/Hive/agg_results"
+"LOAD DATA INPATH '/user/student/BDBasics/Hive/agg_results' OVERWRITE INTO TABLE AggResults "
+-Dhadoop.home.dir=C:/tmp/winutils
+
+-------------------------- Processing data with pig --------------------------------
+"/user/student/BDBasics/CustomersData"
+"State matches 'California'"
+"/user/student/BDBasics/Pig/out"
+
+-------------------------- Processing data with MapReduce jobs ---------------------
+"/user/student/BDBasics/CustomersDataOut"
+"/user/student/BDBasics/CustomersDataOut_MR"

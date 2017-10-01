@@ -10,6 +10,9 @@ val(or var) name: datatype
 
 //Underscore are discoraged in scala as '_'(Underscore) is used as a Wild card character(symbol) in scala
 
+////To pass variable lenght of arguments in scala
+//eg if you define (a:Int*) , 'a' can be (1,2,3,4,5), similarly (names:String) where 'names' can be ("joe","john","smith")
+
 
 
 

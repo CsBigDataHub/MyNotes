@@ -20,6 +20,10 @@ eg:-object Grades extends App
 //'&' intersection of the 'set'
 //'++' is union of 'set's
 
+//****
+//lazy val will not evaluated until referenced
+
+
 
 
 
